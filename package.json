@@ -29,10 +29,12 @@
     "@nestjs/typeorm": "^9.0.1",
     "amqp-connection-manager": "^4.1.9",
     "amqplib": "^0.10.3",
+    "mysql2": "^2.3.3",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
-    "ts-protoc-gen": "^0.15.1-pre.a71b34e"
+    "ts-protoc-gen": "^0.15.1-pre.a71b34e",
+    "typeorm": "^0.3.11"
   },
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",
